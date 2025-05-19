@@ -25,7 +25,9 @@
    ```
 
 * Genvars : a list of integer-valued variables used to compose static expressions for use with behavioral loops
-  ``genvar <gv_name> ``
+  ```
+  genvar <gv_name>
+  ```
 
 * Nets
  * Definition
