@@ -19,10 +19,13 @@
   * Real
 
 * Parameters
+  * Paramsets : set of parameters for a particular module, such that each instance of the paramset need only provide overrides for a smaller number of parameters
+   ```
+   paramset <ps_name>
+   ```
 
-* Paramsets
-
-* Genvars
+* Genvars : a list of integer-valued variables used to compose static expressions for use with behavioral loops
+  ``genvar <gv_name> ``
 
 * Nets
  * Definition
