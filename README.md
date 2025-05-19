@@ -1,5 +1,7 @@
 # Verilog A Manuals & Tips
 
+## Verilog Basics
+
 (1) Lexical Conventions
 
 * Comments
@@ -10,11 +12,86 @@
   * Integer
   * Real
 
-(2) Datatypes, Expressions
+(2) Datatypes
 
-(3) Net
+* Number
+  * Integer
+  * Real
+
+* Parameters
+
+* Paramsets
+
+* Genvars
+
+* Nets
+ * Definition
+ * Signal Natures
+ * Net Disciplines
+
+(3) Operators
+
+* Unary
+
+* Binary
+
+* Tenary
+
+* String Operator
+
+## Modules, Modeling
 
 (4) Modules, Ports
+
+* Module
+
+* Declaration
+
+* Instantiation
+
+* Ports
+
+
+(5) Statement Types
+
+* Assignment
+
+* Sequential Block Statement
+
+* Conditional Statement
+
+* Case Statement
+
+* Repeat Statement
+
+* While Statement
+
+* For Statement
+
+
+(6) Statement Styles
+
+* Procedural = Behavioral
+
+* Structural
+
+
+(7) Special Functions
+
+* Derivative, Integral
+ * Derivative: ``ddt``
+ * Integral: ``idt``
+
+
+* Mathematical
+
+* User-Defined
+
+
+## Simulation
+
+
+
 
 (5) Parameters
 
